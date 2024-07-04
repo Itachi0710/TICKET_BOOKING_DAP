@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "web3": "^4.9.0"
+  }
+}
